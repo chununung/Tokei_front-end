@@ -26,7 +26,7 @@ npm start
 
 以下為我完成的3個頁面
 
-###### 1./client/src/pages/StorePage.jsx：
+###### 1./client/src/pages/StorePage.jsx 商城頁面：
 
          UI:
          /client/src/pages/styles/store.css
@@ -40,7 +40,7 @@ npm start
          串接活動API，渲染在上半部頁面(輪播圖)、
          串接商城產品API，渲染在下半部頁面
 
-###### 2./client/src/pages/GoodsPage.jsx：
+###### 2./client/src/pages/GoodsPage.jsx、/client/src/components/DoughnutChart.jsx  商品頁面：
 
          UI:
          /client/src/pages/styles/goods.css
@@ -57,7 +57,7 @@ npm start
          串接飲食API渲染頁面、
          將按鈕串接會員部分的新增購物車API && 新增最愛產品API
 
-###### 3./client/src/pages/ShoppingcartPage.jsx、/client/src/components/DoughnutChart.jsx：
+###### 3./client/src/pages/ShoppingcartPage.jsx購物車頁面：
 
          UI:
          /client/src/pages/styles/shoppingcart.css

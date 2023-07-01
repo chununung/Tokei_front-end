@@ -93,7 +93,7 @@ npm start
          將按鈕串接會員部分的修改/刪除購物車API、
          將按鈕串接會員部分的送出訂單API、
 
-<img width="1512" alt="截圖 2023-07-02 上午1 07 46" src="https://github.com/chununung/Tokei_front-end/assets/131240960/8eae9dd6-1cc0-4d88-b91e-a767b1cb4ffb">
+<img width="1512" alt="截圖 2023-07-02 上午1 26 06" src="https://github.com/chununung/Tokei_front-end/assets/131240960/315f6de9-1d7b-40d6-b68c-71df5e83843e">
 
 <img width="1512" alt="截圖 2023-07-02 上午1 08 19" src="https://github.com/chununung/Tokei_front-end/assets/131240960/70106b00-b45c-4c89-a8ed-c2a56ce56836">
 
@@ -101,4 +101,4 @@ npm start
 
 <img width="1512" alt="截圖 2023-07-02 上午1 09 06" src="https://github.com/chununung/Tokei_front-end/assets/131240960/06929433-b787-4269-93cb-0e9b37fed13d">
 
-<img width="1512" alt="截圖 2023-07-02 上午1 09 26" src="https://github.com/chununung/Tokei_front-end/assets/131240960/95f18e6d-bdfb-4543-953e-7e240d11d032">
+<img width="1512" alt="截圖 2023-07-02 上午1 27 21" src="https://github.com/chununung/Tokei_front-end/assets/131240960/22f34ec3-b437-473d-b5cb-6d5354e18fbf">

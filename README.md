@@ -27,6 +27,10 @@ npm start
 以下為我完成的3個頁面
 
 ###### 1./client/src/pages/StorePage.jsx：
+
+         UI:
+         /client/src/pages/styles/store.css
+         
          UX:
          兩種商品排列方式
          兩種商品篩選方式
@@ -37,6 +41,10 @@ npm start
          串接商城產品API，渲染在下半部頁面
 
 ###### 2./client/src/pages/GoodsPage.jsx：
+
+         UI:
+         /client/src/pages/styles/goods.css
+         
          UX:
          大小圖切換瀏覽商品
          設置直覺性的按鈕以供操作
@@ -49,7 +57,11 @@ npm start
          串接飲食API渲染頁面、
          將按鈕串接會員部分的新增購物車API && 新增最愛產品API
 
-###### 3./client/src/pages/ShoppingcartPage.jsx：
+###### 3./client/src/pages/ShoppingcartPage.jsx、/client/src/components/DoughnutChart.jsx：
+
+         UI:
+         /client/src/pages/styles/shoppingcart.css
+         
          UX:
          設置直覺性的按鈕以供操作
          設置輸入框文字格式的提示文字

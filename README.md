@@ -57,7 +57,7 @@ npm start
          串接飲食API渲染頁面、
          將按鈕串接會員部分的新增購物車API && 新增最愛產品API
 
-###### 3./client/src/pages/ShoppingcartPage.jsx購物車頁面：
+###### 3./client/src/pages/ShoppingcartPage.jsx 購物車頁面：
 
          UI:
          /client/src/pages/styles/shoppingcart.css

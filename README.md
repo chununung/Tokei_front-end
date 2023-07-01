@@ -93,7 +93,7 @@ npm start
 
 <img width="1512" alt="截圖 2023-07-02 上午1 08 19" src="https://github.com/chununung/Tokei_front-end/assets/131240960/70106b00-b45c-4c89-a8ed-c2a56ce56836">
 
-<img width="1512" alt="截圖 2023-07-02 上午1 08 34" src="https://github.com/chununung/Tokei_front-end/assets/131240960/3d0a245a-b267-4586-b956-a62db707deaa">
+<img width="1512" alt="截圖 2023-07-02 上午1 14 02" src="https://github.com/chununung/Tokei_front-end/assets/131240960/0dd599d5-7369-43a9-af6e-55191b691fac">
 
 <img width="1512" alt="截圖 2023-07-02 上午1 09 06" src="https://github.com/chununung/Tokei_front-end/assets/131240960/06929433-b787-4269-93cb-0e9b37fed13d">
 

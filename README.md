@@ -40,6 +40,11 @@ npm start
          串接活動API，渲染在上半部頁面(輪播圖)、
          串接商城產品API，渲染在下半部頁面
 
+<img width="1512" alt="截圖 2023-07-02 上午1 00 30" src="https://github.com/chununung/Tokei_front-end/assets/131240960/666a0331-ebde-4041-8bd5-cb96fc4e8240">
+<img width="1512" alt="截圖 2023-07-02 上午1 00 39" src="https://github.com/chununung/Tokei_front-end/assets/131240960/d6bf7bf1-9142-46d0-b63d-662d83da6544">
+
+
+
 ###### 2./client/src/pages/GoodsPage.jsx、/client/src/components/DoughnutChart.jsx  商品頁面：
 
          UI:
@@ -56,6 +61,11 @@ npm start
          串接商城產品API渲染頁面、
          串接飲食API渲染頁面、
          將按鈕串接會員部分的新增購物車API && 新增最愛產品API
+<img width="1512" alt="截圖 2023-07-02 上午1 07 05" src="https://github.com/chununung/Tokei_front-end/assets/131240960/b8a07732-d453-4495-9598-9e5752e0102b">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 06 43" src="https://github.com/chununung/Tokei_front-end/assets/131240960/8c8a6194-d725-4ab8-b3c7-2694823a76f7">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 07 18" src="https://github.com/chununung/Tokei_front-end/assets/131240960/0b7daff1-89a2-4ae1-9bab-f4b1ddfcb9c5">
 
 ###### 3./client/src/pages/ShoppingcartPage.jsx 購物車頁面：
 
@@ -79,3 +89,12 @@ npm start
          將按鈕串接會員部分的修改/刪除購物車API、
          將按鈕串接會員部分的送出訂單API、
 
+<img width="1512" alt="截圖 2023-07-02 上午1 07 46" src="https://github.com/chununung/Tokei_front-end/assets/131240960/8eae9dd6-1cc0-4d88-b91e-a767b1cb4ffb">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 08 19" src="https://github.com/chununung/Tokei_front-end/assets/131240960/70106b00-b45c-4c89-a8ed-c2a56ce56836">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 08 34" src="https://github.com/chununung/Tokei_front-end/assets/131240960/3d0a245a-b267-4586-b956-a62db707deaa">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 09 06" src="https://github.com/chununung/Tokei_front-end/assets/131240960/06929433-b787-4269-93cb-0e9b37fed13d">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 09 26" src="https://github.com/chununung/Tokei_front-end/assets/131240960/95f18e6d-bdfb-4543-953e-7e240d11d032">

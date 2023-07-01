@@ -15,6 +15,10 @@ npm start
 
 草稿 :
 ###### Figma: 確認UI畫面
+<img width="1512" alt="截圖 2023-07-02 上午1 20 52" src="https://github.com/chununung/Tokei_front-end/assets/131240960/557c386d-4fac-450d-9497-2e38d1ad3ea0">
+
+<img width="1512" alt="截圖 2023-07-02 上午1 21 49" src="https://github.com/chununung/Tokei_front-end/assets/131240960/67be4675-3f58-4209-a162-3a8cc32cfe50">
+
 
 開發工具 :  
 ###### VSCode: 程式碼編輯器

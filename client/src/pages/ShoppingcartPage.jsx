@@ -263,7 +263,7 @@ const ShoppingcartPage = () => {
     order_details: null,
   });
 
-  const [tempOrder, setTempOrder] = useState({ ...order }); // 创建临时状态来存储用户输入的临时值
+  const [tempOrder, setTempOrder] = useState({ ...order });
 
   const updateOrder = (event) => {
     const { name, value } = event.target;

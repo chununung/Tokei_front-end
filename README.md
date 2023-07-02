@@ -30,6 +30,7 @@ npm start
 
 以下為我完成的3個頁面
 
+https://youtu.be/MQNYJf_kOwU
 ###### 1./client/src/pages/StorePage.jsx 商城頁面：
 
          UI:
